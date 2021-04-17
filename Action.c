@@ -28,5 +28,5 @@ Action()
 		"Url=../favicon.ico", "Referer=http://10.10.30.94/cgi-bin/login?userSession=75893.0884568651DQADHfApHDHfcDtccpfAttcf&username=&password=&login.x=58&login.y=12&JSFormSubmit=off", ENDITEM, 
 		LAST);
 
-	return 0;  
+	return 0;
 }
